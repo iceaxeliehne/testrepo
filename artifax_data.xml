@@ -1,7 +1,7 @@
 <BookingList>
 	<Booking>
 		<event_id>4280</event_id>
-		<seating_area_name>Balcony</seating_area_name>
+		<seating_area_name>Standard</seating_area_name>
 		<buyer_type_name>Adult</buyer_type_name>
 		<seats_sold>2</seats_sold>
 		<net_value_sold>84.00</net_value_sold>
